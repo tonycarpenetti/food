@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
-/* Custom Properties */
+/* Testing Custom Properties */
 
 :root {
     --leading: 2em;
@@ -186,7 +186,7 @@ p {
         margin: 2em 0 0;
         padding: 2em;
         border-radius: .5em;
-        box-shadow: 10px 10px 10px rgba(0,0,0,.3;)
+        box-shadow: 10px 10px 10px rgba(0,0,0,.3);
     }
 
     form {
